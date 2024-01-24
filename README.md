@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @mclmt-owo
+- 👀 I’m interested in TXT2IMG and IMG2IMG Imagery Generation
+- 🌱 I’m currently learning how to effectively use V-PRED models and LoRAs
+- 📫 How to reach me: @collin@collins-corner.cc (Fediverse)
+- 😄 Pronouns: He/They (Demimale)
+- ⚡ Fun fact: AI empowers creatively-motivated but artistically-challenges people like me to get what's in my head out into the real world!
